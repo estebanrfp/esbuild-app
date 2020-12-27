@@ -1,0 +1,26 @@
+{
+  "name": "esbuild-testing",
+  "version": "1.0.0",
+  "description": "Web application packager written in Go",
+  "main": "index.js",
+  "scripts": {
+    "build": "node create-bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanrfp/esbuild-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanrfp/esbuild-testing/issues"
+  },
+  "homepage": "https://github.com/estebanrfp/esbuild-testing#readme",
+  "devDependencies": {
+    "chokidar": "^3.4.3",
+    "esbuild": "^0.8.26"
+  },
+  "dependencies": {}
+}
