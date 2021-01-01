@@ -4,13 +4,13 @@ require('esbuild').build({
   minify: true,
   outdir: 'dist',
   loader: {
-    '.html':'text'
+    '.html': 'text'
   },
   define: {
-    'process.env.NODE_ENV': '"production"',
+    'process.env.NODE_ENV': '"production"'
   },
   target: ['safari14'],
   format: 'esm',
   sourcemap: true,
-  splitting: true,
+  splitting: true
 }).catch(() => process.exit(1))
