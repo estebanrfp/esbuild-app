@@ -1,3 +1,3 @@
-# esbuild-testing
+# esbuild-app
 
 Web application packager written in Go
