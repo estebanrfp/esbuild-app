@@ -22,12 +22,13 @@
   "homepage": "https://github.com/estebanrfp/esbuild-app#readme",
   "devDependencies": {
     "chokidar": "^3.5.0",
-    "esbuild": "^0.8.30",
+    "esbuild": "^0.8.31",
     "eslint": "^7.17.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1"
+    "eslint-plugin-promise": "^4.2.1",
+    "workbox-build": "^6.0.2"
   },
   "dependencies": {
     "gun": "^0.2020.520"
