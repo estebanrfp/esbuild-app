@@ -23,12 +23,12 @@
   "devDependencies": {
     "chokidar": "^3.5.1",
     "esbuild": "0.8.34",
-    "eslint": "^7.18.0",
+    "eslint": "7.19.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "workbox-build": "^6.0.2"
+    "workbox-build": "6.1.0"
   },
   "dependencies": {
     "gun": "^0.2020.520"
