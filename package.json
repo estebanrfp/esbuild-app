@@ -22,7 +22,7 @@
   "homepage": "https://github.com/estebanrfp/esbuild-app#readme",
   "devDependencies": {
     "chokidar": "^3.5.1",
-    "esbuild": "0.8.34",
+    "esbuild": "0.8.39",
     "eslint": "7.19.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.22.1",
