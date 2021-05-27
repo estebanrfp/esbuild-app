@@ -22,12 +22,12 @@
   "homepage": "https://github.com/estebanrfp/esbuild-app#readme",
   "devDependencies": {
     "@deanc/esbuild-plugin-postcss": "1.0.1",
-    "autoprefixer": "10.2.5",
+    "autoprefixer": "10.2.6",
     "chokidar": "^3.5.1",
-    "esbuild": "0.11.23",
-    "eslint": "7.26.0",
-    "eslint-config-standard": "^16.0.2",
-    "eslint-plugin-import": "^2.23.2",
+    "esbuild": "0.12.4",
+    "eslint": "7.27.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.3",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
     "workbox-build": "6.1.5"
