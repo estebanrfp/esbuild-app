@@ -24,7 +24,7 @@
     "@deanc/esbuild-plugin-postcss": "1.0.1",
     "autoprefixer": "10.2.6",
     "chokidar": "^3.5.1",
-    "esbuild": "0.12.6",
+    "esbuild": "0.12.8",
     "eslint": "7.28.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.23.4",
