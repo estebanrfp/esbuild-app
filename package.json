@@ -22,9 +22,9 @@
   "homepage": "https://github.com/estebanrfp/esbuild-app#readme",
   "devDependencies": {
     "@deanc/esbuild-plugin-postcss": "1.0.1",
-    "autoprefixer": "10.3.4",
+    "autoprefixer": "10.3.6",
     "chokidar": "^3.5.2",
-    "esbuild": "0.12.28",
+    "esbuild": "0.13.2",
     "eslint": "7.32.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.24.2",
